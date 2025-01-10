@@ -1,16 +1,18 @@
+# Summary
+Publishing simple websites;
+Editing the web layout;
+Flutter code;
+
+## HDML website
+
+Creating a HDML website:
+-Video 1: https://www.youtube.com/watch?v=nRVaZEFsON4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=11
+-Video 2: https://www.youtube.com/watch?v=SWKyvojyw3A&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=10
+-Video 3: https://www.youtube.com/watch?v=fAhyi_R-AM4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=9
+
 # App Layout
-
-lib, main.dart
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Publishing a website:
+-Video 1: https://www.youtube.com/watch?v=RFXcr7AVPhk
+-Video 2: https://www.youtube.com/watch?v=hdFaT0ZwbUA&t=407s
+-Video 3: https://www.youtube.com/watch?v=iShmWczo0JU
+-Video 4: https://www.youtube.com/watch?v=lYPF-QJ8k5U&t=2576s
