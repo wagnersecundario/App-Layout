@@ -1,6 +1,6 @@
 # App Layout
 
-A new Flutter project.
+lib, main.dart
 
 ## Getting Started
 
