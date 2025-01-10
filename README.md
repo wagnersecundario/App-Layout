@@ -3,13 +3,6 @@ Publishing simple websites;
 Editing the web layout;
 Flutter code;
 
-## HDML website
-
-Creating a HDML website:
--Video 1: https://www.youtube.com/watch?v=nRVaZEFsON4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=11
--Video 2: https://www.youtube.com/watch?v=SWKyvojyw3A&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=10
--Video 3: https://www.youtube.com/watch?v=fAhyi_R-AM4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=9
-
 # App Layout
 Publishing a website:
 -Video 1: https://www.youtube.com/watch?v=RFXcr7AVPhk
